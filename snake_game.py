@@ -1,8 +1,3 @@
-"""
-Enhanced Snake Game - No emoji font dependency.
-All icons drawn with pygame shapes (works on Windows, Mac, Linux).
-"""
-
 import pygame, sys, random, json, os, math
 
 # ── Constants ──────────────────────────────────────────────────────────────────
